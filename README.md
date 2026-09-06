@@ -1,5 +1,5 @@
 # Hi, I'm Fernand Tchassem 👋
-### Senior Full-Stack Developer | Based in Ottawa, ON, Canada
+### Senior Full-Stack Developer | Based in Montréal, QC, Canada
 
 Full-stack developer with 9+ years of experience designing, building, and deploying scalable SaaS products, APIs, and business applications for international clients. I work across the whole stack, from database and API design to modern reactive frontends, with a focus on clean, tested, maintainable code and reliable CI/CD delivery.
 
