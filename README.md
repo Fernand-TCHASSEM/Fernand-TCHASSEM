@@ -20,7 +20,7 @@ Full-stack developer with 9+ years of experience designing, building, and deploy
 
 Most of my professional work was delivered for private clients in France and Cameroon and lives in private repositories. Below are personal and portfolio projects that are public.
 
-* **Portfolio:** [fernandtchassem.onrender.com](https://fernandtchassem.onrender.com).
+* **[Portfolio](https://fernandtchassem.onrender.com):** [fernandtchassem.onrender.com](https://fernandtchassem.onrender.com).
 * **[SmartBudget](https://github.com/Fernand-TCHASSEM/SmartBudget):** a personal finance app that imports bank statements from Canadian banks, categorizes transactions with a hybrid rule engine plus an AI fallback, and visualizes spending on an interactive dashboard. Built with ASP.NET Core (.NET 10) in Clean Architecture, Angular, MySQL, Redis, and Docker, with JWT auth and an Ollama LLM integration.
 
 ## 📬 Connect
